@@ -1,0 +1,16 @@
+name: mo-app-catalogue
+title: App Catalogue
+script: src/index.tsx
+description: ''
+scopes:
+  - space:content:read
+  - space:metadata:read
+blocks:
+  - id: mo-app-catalogue
+    title: App Catalogue
+    description: Browse and filter a catalogue of apps
+
+organization: HUObXkGvOKYSRfdbtdSM
+visibility: private
+secrets: {}
+fetch: true
