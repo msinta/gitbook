@@ -1,5 +1,11 @@
 ---
 description: Real-time data synchronization across your stack.
+vars:
+  version: '3.2'
+  price: '0'
+  publisher: Acme Corp
+  requiredProduct: DataHub
+  supportedVersions: 2022 R1, 2022 R2, 2023 R1
 icon: cloud-binary
 layout:
   width: wide

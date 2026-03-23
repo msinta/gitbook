@@ -1,3 +1,12 @@
+- tag: data
+  label: Data
+  color: blue
+- tag: stable
+  label: Stable
+  color: green
+- tag: monitoring
+  label: Monitoring
+  color: orange
 - tag: test
   label: test
 - tag: verified

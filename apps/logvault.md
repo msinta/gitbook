@@ -1,5 +1,10 @@
 ---
 description: Real-time data synchronization across your stack.
+vars:
+  version: '1.8'
+  price: '299'
+  publisher: DevTools Inc
+  requiredProduct: Core
 icon: blog
 layout:
   width: wide
